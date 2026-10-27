@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: stg_looker__distribution_centers # Fill in the model name
+    description: This model represents the distribution centers from the Looker e-commerce source. # Fill in an informative description of the model
