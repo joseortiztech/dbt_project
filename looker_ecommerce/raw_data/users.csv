@@ -1,0 +1,21 @@
+id,first_name,last_name,email,age,gender,state,street_address,postal_code,city,country,latitude,longitude,traffic_source,created_at
+1,Ana,Garcia,ana.garcia@example.com,28,F,Texas,123 Main St,77001,Houston,United States,29.7604,-95.3698,Search,2023-01-15 10:23:45
+2,Luis,Martinez,luis.martinez@example.com,35,M,California,45 Sunset Blvd,90028,Los Angeles,United States,34.0522,-118.2437,Organic,2023-02-03 14:12:09
+3,Maria,Lopez,maria.lopez@example.com,42,F,Illinois,789 Lake Shore Dr,60611,Chicago,United States,41.8781,-87.6298,Facebook,2023-02-20 09:45:31
+4,John,Smith,john.smith@example.com,51,M,New York,22 Broadway,10004,New York,United States,40.7128,-74.0060,Search,2023-03-05 18:30:00
+5,Emily,Johnson,emily.johnson@example.com,24,F,Florida,500 Ocean Dr,33139,Miami,United States,25.7617,-80.1918,Email,2023-03-18 11:05:22
+6,Carlos,Hernandez,carlos.hernandez@example.com,31,M,Tennessee,88 Beale St,38103,Memphis,United States,35.1495,-90.0490,Organic,2023-04-02 16:47:10
+7,Sophie,Brown,sophie.brown@example.com,19,F,Louisiana,310 Bourbon St,70130,New Orleans,United States,29.9511,-90.0715,Display,2023-04-21 08:15:55
+8,David,Wilson,david.wilson@example.com,47,M,Georgia,17 Peachtree St,30303,Atlanta,United States,33.7490,-84.3880,Search,2023-05-09 20:33:18
+9,Laura,Torres,laura.torres@example.com,38,F,Pennsylvania,901 Market St,19107,Philadelphia,United States,39.9526,-75.1652,Facebook,2023-05-27 13:22:41
+10,Miguel,Ramirez,miguel.ramirez@example.com,29,M,Alabama,64 Dauphin St,36602,Mobile,United States,30.6954,-88.0399,Organic,2023-06-11 07:59:03
+11,Chloe,Davis,chloe.davis@example.com,33,F,South Carolina,12 Meeting St,29401,Charleston,United States,32.7765,-79.9311,Email,2023-06-30 15:40:27
+12,James,Miller,james.miller@example.com,56,M,Georgia,205 Bay St,31401,Savannah,United States,32.0809,-81.0912,Search,2023-07-14 12:18:36
+13,Isabella,Rodriguez,isabella.rodriguez@example.com,22,F,California,730 Pine St,94108,San Francisco,United States,37.7749,-122.4194,Display,2023-07-29 19:07:50
+14,Daniel,Moore,daniel.moore@example.com,40,M,Washington,1500 4th Ave,98101,Seattle,United States,47.6062,-122.3321,Organic,2023-08-16 10:52:14
+15,Olivia,Taylor,olivia.taylor@example.com,27,F,Massachusetts,75 Beacon St,02108,Boston,United States,42.3601,-71.0589,Facebook,2023-09-01 17:26:39
+16,Pedro,Sanchez,pedro.sanchez@example.com,45,M,Texas,330 Congress Ave,78701,Austin,United States,30.2672,-97.7431,Search,2023-09-19 09:11:48
+17,Grace,Anderson,grace.anderson@example.com,36,F,Colorado,1801 Larimer St,80202,Denver,United States,39.7392,-104.9903,Email,2023-10-07 14:34:02
+18,Jorge,Flores,jorge.flores@example.com,30,M,Arizona,200 W Washington St,85003,Phoenix,United States,33.4484,-112.0740,Organic,2023-10-25 21:49:16
+19,Hannah,White,hannah.white@example.com,52,F,Oregon,888 SW 5th Ave,97204,Portland,United States,45.5152,-122.6784,Search,2023-11-12 06:38:59
+20,Ricardo,Diaz,ricardo.diaz@example.com,26,M,Nevada,3600 Las Vegas Blvd,89109,Las Vegas,United States,36.1699,-115.1398,Display,2023-11-30 23:05:44

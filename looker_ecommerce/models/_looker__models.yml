@@ -3,3 +3,6 @@ version: 2
 models:
   - name: stg_looker__distribution_centers # Fill in the model name
     description: This model represents the distribution centers from the Looker e-commerce source. # Fill in an informative description of the model
+
+  - name: stg_looker__users # Fill in the staging model name 
+    description: Users demographics and location information

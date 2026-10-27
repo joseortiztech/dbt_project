@@ -1,0 +1,6 @@
+version: 2
+
+sources:
+  - name: looker_ecommerce
+    tables:
+      - name: users 	# Fill in the source name
