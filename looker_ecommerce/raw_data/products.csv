@@ -1,0 +1,31 @@
+id,cost,category,name,brand,retail_price,department,sku,distribution_center_id
+1,35,Jeans,Levi's Jeans 1,Levi's,79.99,Men,SKU00001,2
+2,28,Jeans,Wrangler Jeans 2,Wrangler,64.99,Women,SKU00002,1
+3,12,Tops & Tees,Nike Tops & Tees 3,Nike,29.99,Men,SKU00003,5
+4,10,Tops & Tees,Zara Tops & Tees 4,Zara,24.99,Women,SKU00004,4
+5,22,Sweaters,Gap Sweaters 5,Gap,54.99,Women,SKU00005,4
+6,20,Sweaters,Uniqlo Sweaters 6,Uniqlo,49.9,Men,SKU00006,3
+7,70,Outerwear & Coats,The North Face Outerwear & Coats 7,The North Face,169.0,Men,SKU00007,2
+8,55,Outerwear & Coats,Columbia Outerwear & Coats 8,Columbia,139.0,Women,SKU00008,9
+9,3,Socks,Adidas Socks 9,Adidas,9.99,Men,SKU00009,2
+10,2,Socks,Hanes Socks 10,Hanes,7.5,Women,SKU00010,10
+11,18,Active,Under Armour Active 11,Under Armour,44.99,Men,SKU00011,7
+12,30,Active,Lululemon Active 12,Lululemon,78.0,Women,SKU00012,1
+13,15,Swim,Speedo Swim 13,Speedo,39.99,Men,SKU00013,1
+14,17,Swim,Roxy Swim 14,Roxy,42.0,Women,SKU00014,2
+15,60,Accessories,Ray-Ban Accessories 15,Ray-Ban,149.0,Women,SKU00015,4
+16,45,Accessories,Fossil Accessories 16,Fossil,119.0,Men,SKU00016,4
+17,11,Shorts,Champion Shorts 17,Champion,27.99,Men,SKU00017,9
+18,9,Shorts,Old Navy Shorts 18,Old Navy,22.99,Women,SKU00018,10
+19,21,Dresses,H&M Dresses 19,H&M,49.99,Women,SKU00019,1
+20,90,Suits,Calvin Klein Suits 20,Calvin Klein,229.0,Men,SKU00020,9
+21,24,Pants,Dockers Pants 21,Dockers,59.99,Men,SKU00021,4
+22,33,Pants,Ann Taylor Pants 22,Ann Taylor,84.0,Women,SKU00022,9
+23,6,Underwear,Jockey Underwear 23,Jockey,16.99,Men,SKU00023,7
+24,14,Intimates,Victoria's Secret Intimates 24,Victoria's Secret,36.0,Women,SKU00024,4
+25,13,Sleep & Lounge,Hanes Sleep & Lounge 25,Hanes,32.0,Women,SKU00025,8
+26,25,Fashion Hoodies & Sweatshirts,Champion Fashion Hoodies & Sweatshirts 26,Champion,59.99,Men,SKU00026,10
+27,27,Fashion Hoodies & Sweatshirts,Nike Fashion Hoodies & Sweatshirts 27,Nike,64.99,Women,SKU00027,5
+28,16,Skirts,Zara Skirts 28,Zara,39.99,Women,SKU00028,1
+29,26,Plus,Torrid Plus 29,Torrid,59.5,Women,SKU00029,3
+30,19,Clothing Sets,Carter's Clothing Sets 30,Carter's,44.0,Women,SKU00030,7
