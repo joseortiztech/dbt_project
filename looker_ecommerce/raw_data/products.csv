@@ -1,0 +1,16 @@
+id,cost,category,name,brand,retail_price,department,sku,distribution_center_id
+1,38.5,Jeans,Classic Denim Jeans,Levi's,79.0,Men,SKU0001A2824,1
+2,24.0,Pants,Slim Fit Chinos,Dockers,55.0,Men,SKU0002A5506,4
+3,6.5,Tops & Tees,Cotton Crew T-Shirt,Hanes,18.0,Men,SKU0003A4657,3
+4,28.0,Fashion Hoodies & Sweatshirts,Hooded Fleece Sweatshirt,Nike,64.0,Men,SKU0004A2679,9
+5,12.0,Accessories,Leather Belt,Calvin Klein,35.0,Men,SKU0005A2424,10
+6,35.0,Jeans,High-Rise Skinny Jeans,Levi's,75.0,Women,SKU0006A7912,1
+7,22.0,Dresses,Floral Summer Dress,Zara,59.0,Women,SKU0007A1488,2
+8,30.0,Leggings,Yoga Leggings,Lululemon,88.0,Women,SKU0008A4582,4
+9,26.0,Sweaters,Wool Blend Cardigan,Gap,69.0,Women,SKU0009A9279,10
+10,45.0,Accessories,Silk Scarf,Burberry,120.0,Women,SKU0010A1434,9
+11,11.0,Active,Running Shorts,Adidas,30.0,Men,SKU0011A4257,9
+12,14.0,Active,Sports Bra,Under Armour,38.0,Women,SKU0012A7873,4
+13,8.0,Socks,Wool Socks 3-Pack,Smartwool,24.0,Men,SKU0013A8359,10
+14,48.0,Outerwear & Coats,Rain Jacket,Columbia,110.0,Women,SKU0014A5557,1
+15,20.0,Shoes,Canvas Sneakers,Converse,55.0,Men,SKU0015A3615,7

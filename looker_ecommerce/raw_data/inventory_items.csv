@@ -1,0 +1,61 @@
+id,product_id,created_at,sold_at,cost,product_category,product_name,product_brand,product_retail_price,product_department,product_sku,product_distribution_center_id
+1,1,2023-02-13 08:09:00,2023-08-02 11:18:10,38.5,Jeans,Classic Denim Jeans,Levi's,79.0,Men,SKU0001A2824,1
+2,2,2023-01-28 10:06:00,2023-07-04 21:41:19,24.0,Pants,Slim Fit Chinos,Dockers,55.0,Men,SKU0002A5506,4
+3,3,2023-01-12 12:06:00,2023-10-20 04:17:18,6.5,Tops & Tees,Cotton Crew T-Shirt,Hanes,18.0,Men,SKU0003A4657,3
+4,4,2023-02-15 11:38:00,2023-11-18 17:19:59,28.0,Fashion Hoodies & Sweatshirts,Hooded Fleece Sweatshirt,Nike,64.0,Men,SKU0004A2679,9
+5,5,2023-02-03 01:46:00,2023-11-19 22:20:15,12.0,Accessories,Leather Belt,Calvin Klein,35.0,Men,SKU0005A2424,10
+6,6,2023-02-28 17:07:00,,35.0,Jeans,High-Rise Skinny Jeans,Levi's,75.0,Women,SKU0006A7912,1
+7,7,2023-04-29 12:05:00,2023-11-22 07:42:06,22.0,Dresses,Floral Summer Dress,Zara,59.0,Women,SKU0007A1488,2
+8,8,2023-03-12 09:53:00,2023-11-20 07:25:07,30.0,Leggings,Yoga Leggings,Lululemon,88.0,Women,SKU0008A4582,4
+9,9,2023-03-22 19:56:00,2023-10-20 04:27:08,26.0,Sweaters,Wool Blend Cardigan,Gap,69.0,Women,SKU0009A9279,10
+10,10,2023-04-21 11:36:00,,45.0,Accessories,Silk Scarf,Burberry,120.0,Women,SKU0010A1434,9
+11,11,2023-01-25 22:04:00,2023-06-01 10:49:08,11.0,Active,Running Shorts,Adidas,30.0,Men,SKU0011A4257,9
+12,12,2023-01-06 21:14:00,,14.0,Active,Sports Bra,Under Armour,38.0,Women,SKU0012A7873,4
+13,13,2023-04-09 09:05:00,2023-06-01 12:16:59,8.0,Socks,Wool Socks 3-Pack,Smartwool,24.0,Men,SKU0013A8359,10
+14,14,2023-04-20 07:55:00,2023-06-16 12:46:21,48.0,Outerwear & Coats,Rain Jacket,Columbia,110.0,Women,SKU0014A5557,1
+15,15,2023-01-13 12:17:00,2023-10-23 16:20:59,20.0,Shoes,Canvas Sneakers,Converse,55.0,Men,SKU0015A3615,7
+16,1,2023-02-28 20:53:00,2023-10-23 16:20:59,38.5,Jeans,Classic Denim Jeans,Levi's,79.0,Men,SKU0001A2824,1
+17,2,2023-02-16 05:23:00,2023-10-22 00:07:04,24.0,Pants,Slim Fit Chinos,Dockers,55.0,Men,SKU0002A5506,4
+18,3,2023-02-15 06:42:00,2023-07-10 07:55:10,6.5,Tops & Tees,Cotton Crew T-Shirt,Hanes,18.0,Men,SKU0003A4657,3
+19,4,2023-02-04 22:59:00,,28.0,Fashion Hoodies & Sweatshirts,Hooded Fleece Sweatshirt,Nike,64.0,Men,SKU0004A2679,9
+20,5,2023-03-29 20:04:00,2023-11-17 22:31:09,12.0,Accessories,Leather Belt,Calvin Klein,35.0,Men,SKU0005A2424,10
+21,6,2023-03-19 20:10:00,2023-07-11 22:06:24,35.0,Jeans,High-Rise Skinny Jeans,Levi's,75.0,Women,SKU0006A7912,1
+22,7,2023-03-10 23:15:00,2023-11-19 22:20:15,22.0,Dresses,Floral Summer Dress,Zara,59.0,Women,SKU0007A1488,2
+23,8,2023-01-21 14:24:00,,30.0,Leggings,Yoga Leggings,Lululemon,88.0,Women,SKU0008A4582,4
+24,9,2023-02-04 20:44:00,2023-10-07 16:10:03,26.0,Sweaters,Wool Blend Cardigan,Gap,69.0,Women,SKU0009A9279,10
+25,10,2023-03-13 07:43:00,,45.0,Accessories,Silk Scarf,Burberry,120.0,Women,SKU0010A1434,9
+26,11,2023-02-11 01:14:00,2023-10-17 01:47:20,11.0,Active,Running Shorts,Adidas,30.0,Men,SKU0011A4257,9
+27,12,2023-04-16 01:51:00,,14.0,Active,Sports Bra,Under Armour,38.0,Women,SKU0012A7873,4
+28,13,2023-02-10 12:17:00,2023-06-01 10:49:08,8.0,Socks,Wool Socks 3-Pack,Smartwool,24.0,Men,SKU0013A8359,10
+29,14,2023-01-09 06:58:00,2023-10-07 16:10:03,48.0,Outerwear & Coats,Rain Jacket,Columbia,110.0,Women,SKU0014A5557,1
+30,15,2023-05-01 18:56:00,,20.0,Shoes,Canvas Sneakers,Converse,55.0,Men,SKU0015A3615,7
+31,1,2023-04-02 10:13:00,2023-06-01 10:49:08,38.5,Jeans,Classic Denim Jeans,Levi's,79.0,Men,SKU0001A2824,1
+32,2,2023-03-25 15:25:00,,24.0,Pants,Slim Fit Chinos,Dockers,55.0,Men,SKU0002A5506,4
+33,3,2023-04-24 20:29:00,,6.5,Tops & Tees,Cotton Crew T-Shirt,Hanes,18.0,Men,SKU0003A4657,3
+34,4,2023-01-19 08:08:00,2023-10-07 16:10:03,28.0,Fashion Hoodies & Sweatshirts,Hooded Fleece Sweatshirt,Nike,64.0,Men,SKU0004A2679,9
+35,5,2023-02-01 23:35:00,2023-07-20 06:34:28,12.0,Accessories,Leather Belt,Calvin Klein,35.0,Men,SKU0005A2424,10
+36,6,2023-03-10 08:47:00,2023-07-25 16:16:08,35.0,Jeans,High-Rise Skinny Jeans,Levi's,75.0,Women,SKU0006A7912,1
+37,7,2023-03-16 13:57:00,2023-08-02 11:18:10,22.0,Dresses,Floral Summer Dress,Zara,59.0,Women,SKU0007A1488,2
+38,8,2023-03-16 12:23:00,2023-09-26 19:36:06,30.0,Leggings,Yoga Leggings,Lululemon,88.0,Women,SKU0008A4582,4
+39,9,2023-01-29 04:32:00,2023-10-20 04:17:18,26.0,Sweaters,Wool Blend Cardigan,Gap,69.0,Women,SKU0009A9279,10
+40,10,2023-03-05 02:48:00,2023-10-04 08:57:58,45.0,Accessories,Silk Scarf,Burberry,120.0,Women,SKU0010A1434,9
+41,11,2023-01-07 03:09:00,2023-10-20 04:27:08,11.0,Active,Running Shorts,Adidas,30.0,Men,SKU0011A4257,9
+42,12,2023-03-22 05:50:00,2023-10-17 01:47:20,14.0,Active,Sports Bra,Under Armour,38.0,Women,SKU0012A7873,4
+43,13,2023-03-29 13:38:00,2023-10-17 01:47:20,8.0,Socks,Wool Socks 3-Pack,Smartwool,24.0,Men,SKU0013A8359,10
+44,14,2023-01-09 12:24:00,2023-11-22 07:42:06,48.0,Outerwear & Coats,Rain Jacket,Columbia,110.0,Women,SKU0014A5557,1
+45,15,2023-03-18 14:33:00,2023-07-13 13:31:30,20.0,Shoes,Canvas Sneakers,Converse,55.0,Men,SKU0015A3615,7
+46,1,2023-02-02 17:55:00,2023-06-01 12:16:59,38.5,Jeans,Classic Denim Jeans,Levi's,79.0,Men,SKU0001A2824,1
+47,2,2023-05-01 00:43:00,2023-06-20 14:51:55,24.0,Pants,Slim Fit Chinos,Dockers,55.0,Men,SKU0002A5506,4
+48,3,2023-04-03 03:43:00,2023-11-20 07:25:07,6.5,Tops & Tees,Cotton Crew T-Shirt,Hanes,18.0,Men,SKU0003A4657,3
+49,4,2023-04-24 17:48:00,2023-07-20 06:34:28,28.0,Fashion Hoodies & Sweatshirts,Hooded Fleece Sweatshirt,Nike,64.0,Men,SKU0004A2679,9
+50,5,2023-02-04 20:21:00,2023-08-02 11:18:10,12.0,Accessories,Leather Belt,Calvin Klein,35.0,Men,SKU0005A2424,10
+51,6,2023-01-15 09:27:00,2023-07-25 16:16:08,35.0,Jeans,High-Rise Skinny Jeans,Levi's,75.0,Women,SKU0006A7912,1
+52,7,2023-01-21 14:00:00,,22.0,Dresses,Floral Summer Dress,Zara,59.0,Women,SKU0007A1488,2
+53,8,2023-04-03 23:16:00,,30.0,Leggings,Yoga Leggings,Lululemon,88.0,Women,SKU0008A4582,4
+54,9,2023-03-06 05:32:00,2023-10-04 08:57:58,26.0,Sweaters,Wool Blend Cardigan,Gap,69.0,Women,SKU0009A9279,10
+55,10,2023-04-27 03:55:00,,45.0,Accessories,Silk Scarf,Burberry,120.0,Women,SKU0010A1434,9
+56,11,2023-03-22 09:53:00,2023-10-22 00:07:04,11.0,Active,Running Shorts,Adidas,30.0,Men,SKU0011A4257,9
+57,12,2023-03-23 16:38:00,2023-09-14 21:55:47,14.0,Active,Sports Bra,Under Armour,38.0,Women,SKU0012A7873,4
+58,13,2023-01-26 04:23:00,,8.0,Socks,Wool Socks 3-Pack,Smartwool,24.0,Men,SKU0013A8359,10
+59,14,2023-04-08 05:34:00,,48.0,Outerwear & Coats,Rain Jacket,Columbia,110.0,Women,SKU0014A5557,1
+60,15,2023-04-10 16:58:00,,20.0,Shoes,Canvas Sneakers,Converse,55.0,Men,SKU0015A3615,7

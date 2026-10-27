@@ -1,0 +1,187 @@
+id,user_id,sequence_number,session_id,created_at,ip_address,city,state,postal_code,browser,traffic_source,uri,event_type
+1,2,1,sess-0017,2023-06-01 10:26:08,189.10.194.123,Los Angeles,California,90028,Chrome,Organic,/,home
+2,2,2,sess-0017,2023-06-01 10:27:53,189.10.194.123,Los Angeles,California,90028,Chrome,Organic,/department/men,department
+3,2,3,sess-0017,2023-06-01 10:29:24,189.10.194.123,Los Angeles,California,90028,Chrome,Organic,/product/13,product
+4,2,4,sess-0017,2023-06-01 10:32:51,189.10.194.123,Los Angeles,California,90028,Chrome,Organic,/department/men,department
+5,2,5,sess-0017,2023-06-01 10:34:45,189.10.194.123,Los Angeles,California,90028,Chrome,Organic,/product/11,product
+6,2,6,sess-0017,2023-06-01 10:38:38,189.10.194.123,Los Angeles,California,90028,Chrome,Organic,/department/men,department
+7,2,7,sess-0017,2023-06-01 10:42:26,189.10.194.123,Los Angeles,California,90028,Chrome,Organic,/product/1,product
+8,2,8,sess-0017,2023-06-01 10:44:28,189.10.194.123,Los Angeles,California,90028,Chrome,Organic,/cart,cart
+9,2,9,sess-0017,2023-06-01 10:47:00,189.10.194.123,Los Angeles,California,90028,Chrome,Organic,/purchase,purchase
+10,13,1,sess-0004,2023-06-01 11:52:59,141.59.197.231,San Francisco,California,94108,Safari,Display,/,home
+11,13,2,sess-0004,2023-06-01 11:54:19,141.59.197.231,San Francisco,California,94108,Safari,Display,/department/men,department
+12,13,3,sess-0004,2023-06-01 11:54:45,141.59.197.231,San Francisco,California,94108,Safari,Display,/product/13,product
+13,13,4,sess-0004,2023-06-01 11:58:01,141.59.197.231,San Francisco,California,94108,Safari,Display,/department/men,department
+14,13,5,sess-0004,2023-06-01 12:00:07,141.59.197.231,San Francisco,California,94108,Safari,Display,/product/1,product
+15,13,6,sess-0004,2023-06-01 12:00:22,141.59.197.231,San Francisco,California,94108,Safari,Display,/cart,cart
+16,13,7,sess-0004,2023-06-01 12:02:50,141.59.197.231,San Francisco,California,94108,Safari,Display,/purchase,purchase
+17,8,1,sess-0002,2023-06-20 14:22:55,82.179.204.174,Atlanta,Georgia,30303,Firefox,Search,/,home
+18,8,2,sess-0002,2023-06-20 14:23:17,82.179.204.174,Atlanta,Georgia,30303,Firefox,Search,/department/men,department
+19,8,3,sess-0002,2023-06-20 14:24:01,82.179.204.174,Atlanta,Georgia,30303,Firefox,Search,/product/2,product
+20,8,4,sess-0002,2023-06-20 14:28:00,82.179.204.174,Atlanta,Georgia,30303,Firefox,Search,/cart,cart
+21,8,5,sess-0002,2023-06-20 14:29:21,82.179.204.174,Atlanta,Georgia,30303,Firefox,Search,/purchase,purchase
+22,7,1,sess-0030,2023-06-22 07:00:00,205.123.243.166,New Orleans,Louisiana,70130,Edge,Display,/,home
+23,7,2,sess-0030,2023-06-22 07:02:09,205.123.243.166,New Orleans,Louisiana,70130,Edge,Display,/department/women,department
+24,7,3,sess-0030,2023-06-22 07:05:46,205.123.243.166,New Orleans,Louisiana,70130,Edge,Display,/product/8,product
+25,7,4,sess-0030,2023-06-22 07:06:05,205.123.243.166,New Orleans,Louisiana,70130,Edge,Display,/department/women,department
+26,7,5,sess-0030,2023-06-22 07:06:43,205.123.243.166,New Orleans,Louisiana,70130,Edge,Display,/product/9,product
+27,13,1,sess-0011,2023-07-04 21:24:19,73.75.2.229,San Francisco,California,94108,Chrome,Display,/,home
+28,13,2,sess-0011,2023-07-04 21:27:53,73.75.2.229,San Francisco,California,94108,Chrome,Display,/department/men,department
+29,13,3,sess-0011,2023-07-04 21:29:56,73.75.2.229,San Francisco,California,94108,Chrome,Display,/product/2,product
+30,13,4,sess-0011,2023-07-04 21:31:07,73.75.2.229,San Francisco,California,94108,Chrome,Display,/cart,cart
+31,13,5,sess-0011,2023-07-04 21:32:07,73.75.2.229,San Francisco,California,94108,Chrome,Display,/purchase,purchase
+32,20,1,sess-0021,2023-07-10 07:40:10,97.194.142.193,Las Vegas,Nevada,89109,Edge,Display,/,home
+33,20,2,sess-0021,2023-07-10 07:41:29,97.194.142.193,Las Vegas,Nevada,89109,Edge,Display,/department/men,department
+34,20,3,sess-0021,2023-07-10 07:45:17,97.194.142.193,Las Vegas,Nevada,89109,Edge,Display,/product/3,product
+35,20,4,sess-0021,2023-07-10 07:45:52,97.194.142.193,Las Vegas,Nevada,89109,Edge,Display,/cart,cart
+36,20,5,sess-0021,2023-07-10 07:48:07,97.194.142.193,Las Vegas,Nevada,89109,Edge,Display,/purchase,purchase
+37,9,1,sess-0022,2023-07-11 21:38:24,149.26.179.58,Philadelphia,Pennsylvania,19107,Chrome,Facebook,/,home
+38,9,2,sess-0022,2023-07-11 21:41:58,149.26.179.58,Philadelphia,Pennsylvania,19107,Chrome,Facebook,/department/women,department
+39,9,3,sess-0022,2023-07-11 21:44:59,149.26.179.58,Philadelphia,Pennsylvania,19107,Chrome,Facebook,/product/6,product
+40,9,4,sess-0022,2023-07-11 21:45:24,149.26.179.58,Philadelphia,Pennsylvania,19107,Chrome,Facebook,/cart,cart
+41,9,5,sess-0022,2023-07-11 21:48:52,149.26.179.58,Philadelphia,Pennsylvania,19107,Chrome,Facebook,/purchase,purchase
+42,8,1,sess-0003,2023-07-13 13:08:30,78.19.55.153,Atlanta,Georgia,30303,Edge,Search,/,home
+43,8,2,sess-0003,2023-07-13 13:10:13,78.19.55.153,Atlanta,Georgia,30303,Edge,Search,/department/men,department
+44,8,3,sess-0003,2023-07-13 13:13:34,78.19.55.153,Atlanta,Georgia,30303,Edge,Search,/product/15,product
+45,8,4,sess-0003,2023-07-13 13:17:10,78.19.55.153,Atlanta,Georgia,30303,Edge,Search,/cart,cart
+46,8,5,sess-0003,2023-07-13 13:18:45,78.19.55.153,Atlanta,Georgia,30303,Edge,Search,/purchase,purchase
+47,12,1,sess-0024,2023-07-13 19:00:00,220.83.159.28,Savannah,Georgia,31401,Chrome,Search,/,home
+48,12,2,sess-0024,2023-07-13 19:01:34,220.83.159.28,Savannah,Georgia,31401,Chrome,Search,/department/men,department
+49,12,3,sess-0024,2023-07-13 19:04:16,220.83.159.28,Savannah,Georgia,31401,Chrome,Search,/product/13,product
+50,11,1,sess-0029,2023-07-17 15:00:00,215.132.174.72,Charleston,South Carolina,29401,Firefox,Email,/,home
+51,11,2,sess-0029,2023-07-17 15:02:37,215.132.174.72,Charleston,South Carolina,29401,Firefox,Email,/department/women,department
+52,11,3,sess-0029,2023-07-17 15:02:54,215.132.174.72,Charleston,South Carolina,29401,Firefox,Email,/product/6,product
+53,8,1,sess-0001,2023-07-20 06:15:28,100.156.116.58,Atlanta,Georgia,30303,Chrome,Search,/,home
+54,8,2,sess-0001,2023-07-20 06:18:31,100.156.116.58,Atlanta,Georgia,30303,Chrome,Search,/department/men,department
+55,8,3,sess-0001,2023-07-20 06:19:35,100.156.116.58,Atlanta,Georgia,30303,Chrome,Search,/product/5,product
+56,8,4,sess-0001,2023-07-20 06:21:32,100.156.116.58,Atlanta,Georgia,30303,Chrome,Search,/department/men,department
+57,8,5,sess-0001,2023-07-20 06:23:11,100.156.116.58,Atlanta,Georgia,30303,Chrome,Search,/product/4,product
+58,8,6,sess-0001,2023-07-20 06:24:37,100.156.116.58,Atlanta,Georgia,30303,Chrome,Search,/cart,cart
+59,8,7,sess-0001,2023-07-20 06:28:33,100.156.116.58,Atlanta,Georgia,30303,Chrome,Search,/purchase,purchase
+60,8,1,sess-0023,2023-07-22 00:00:00,43.242.58.145,Atlanta,Georgia,30303,Safari,Search,/,home
+61,8,2,sess-0023,2023-07-22 00:02:14,43.242.58.145,Atlanta,Georgia,30303,Safari,Search,/department/men,department
+62,8,3,sess-0023,2023-07-22 00:05:28,43.242.58.145,Atlanta,Georgia,30303,Safari,Search,/product/4,product
+63,18,1,sess-0012,2023-07-25 15:49:08,143.237.25.143,Phoenix,Arizona,85003,Safari,Organic,/,home
+64,18,2,sess-0012,2023-07-25 15:53:00,143.237.25.143,Phoenix,Arizona,85003,Safari,Organic,/department/women,department
+65,18,3,sess-0012,2023-07-25 15:53:46,143.237.25.143,Phoenix,Arizona,85003,Safari,Organic,/product/6,product
+66,18,4,sess-0012,2023-07-25 15:55:57,143.237.25.143,Phoenix,Arizona,85003,Safari,Organic,/department/women,department
+67,18,5,sess-0012,2023-07-25 15:56:46,143.237.25.143,Phoenix,Arizona,85003,Safari,Organic,/product/6,product
+68,18,6,sess-0012,2023-07-25 16:00:26,143.237.25.143,Phoenix,Arizona,85003,Safari,Organic,/cart,cart
+69,18,7,sess-0012,2023-07-25 16:02:39,143.237.25.143,Phoenix,Arizona,85003,Safari,Organic,/purchase,purchase
+70,3,1,sess-0013,2023-08-02 10:57:10,154.162.226.157,Chicago,Illinois,60611,Edge,Facebook,/,home
+71,3,2,sess-0013,2023-08-02 11:00:57,154.162.226.157,Chicago,Illinois,60611,Edge,Facebook,/department/women,department
+72,3,3,sess-0013,2023-08-02 11:03:32,154.162.226.157,Chicago,Illinois,60611,Edge,Facebook,/product/7,product
+73,3,4,sess-0013,2023-08-02 11:05:41,154.162.226.157,Chicago,Illinois,60611,Edge,Facebook,/department/men,department
+74,3,5,sess-0013,2023-08-02 11:06:36,154.162.226.157,Chicago,Illinois,60611,Edge,Facebook,/product/1,product
+75,3,6,sess-0013,2023-08-02 11:10:01,154.162.226.157,Chicago,Illinois,60611,Edge,Facebook,/department/men,department
+76,3,7,sess-0013,2023-08-02 11:13:56,154.162.226.157,Chicago,Illinois,60611,Edge,Facebook,/product/5,product
+77,3,8,sess-0013,2023-08-02 11:16:12,154.162.226.157,Chicago,Illinois,60611,Edge,Facebook,/cart,cart
+78,3,9,sess-0013,2023-08-02 11:18:22,154.162.226.157,Chicago,Illinois,60611,Edge,Facebook,/purchase,purchase
+79,9,1,sess-0028,2023-08-22 07:00:00,126.124.237.146,Philadelphia,Pennsylvania,19107,Edge,Facebook,/,home
+80,9,2,sess-0028,2023-08-22 07:01:41,126.124.237.146,Philadelphia,Pennsylvania,19107,Edge,Facebook,/department/men,department
+81,9,3,sess-0028,2023-08-22 07:02:03,126.124.237.146,Philadelphia,Pennsylvania,19107,Edge,Facebook,/product/5,product
+82,11,1,sess-0032,2023-08-30 22:00:00,75.118.61.185,Charleston,South Carolina,29401,Safari,Email,/,home
+83,11,2,sess-0032,2023-08-30 22:01:35,75.118.61.185,Charleston,South Carolina,29401,Safari,Email,/department/men,department
+84,11,3,sess-0032,2023-08-30 22:02:20,75.118.61.185,Charleston,South Carolina,29401,Safari,Email,/product/5,product
+85,11,4,sess-0032,2023-08-30 22:05:45,75.118.61.185,Charleston,South Carolina,29401,Safari,Email,/department/men,department
+86,11,5,sess-0032,2023-08-30 22:08:17,75.118.61.185,Charleston,South Carolina,29401,Safari,Email,/product/5,product
+87,13,1,sess-0025,2023-09-10 22:00:00,162.124.52.179,San Francisco,California,94108,Firefox,Display,/,home
+88,13,2,sess-0025,2023-09-10 22:03:52,162.124.52.179,San Francisco,California,94108,Firefox,Display,/department/men,department
+89,13,3,sess-0025,2023-09-10 22:07:02,162.124.52.179,San Francisco,California,94108,Firefox,Display,/product/2,product
+90,8,1,sess-0031,2023-09-12 22:00:00,180.188.242.142,Atlanta,Georgia,30303,Firefox,Search,/,home
+91,8,2,sess-0031,2023-09-12 22:02:03,180.188.242.142,Atlanta,Georgia,30303,Firefox,Search,/department/men,department
+92,8,3,sess-0031,2023-09-12 22:05:28,180.188.242.142,Atlanta,Georgia,30303,Firefox,Search,/product/5,product
+93,4,1,sess-0027,2023-09-19 11:00:00,122.90.138.158,New York,New York,10004,Edge,Search,/,home
+94,4,2,sess-0027,2023-09-19 11:02:14,122.90.138.158,New York,New York,10004,Edge,Search,/department/women,department
+95,4,3,sess-0027,2023-09-19 11:04:20,122.90.138.158,New York,New York,10004,Edge,Search,/product/12,product
+96,4,4,sess-0027,2023-09-19 11:08:06,122.90.138.158,New York,New York,10004,Edge,Search,/department/men,department
+97,4,5,sess-0027,2023-09-19 11:11:28,122.90.138.158,New York,New York,10004,Edge,Search,/product/3,product
+98,17,1,sess-0016,2023-10-04 08:46:58,27.212.208.85,Denver,Colorado,80202,Edge,Email,/,home
+99,17,2,sess-0016,2023-10-04 08:48:59,27.212.208.85,Denver,Colorado,80202,Edge,Email,/department/women,department
+100,17,3,sess-0016,2023-10-04 08:49:29,27.212.208.85,Denver,Colorado,80202,Edge,Email,/product/9,product
+101,17,4,sess-0016,2023-10-04 08:50:36,27.212.208.85,Denver,Colorado,80202,Edge,Email,/department/women,department
+102,17,5,sess-0016,2023-10-04 08:54:24,27.212.208.85,Denver,Colorado,80202,Edge,Email,/product/10,product
+103,17,6,sess-0016,2023-10-04 08:56:26,27.212.208.85,Denver,Colorado,80202,Edge,Email,/cart,cart
+104,17,7,sess-0016,2023-10-04 08:58:20,27.212.208.85,Denver,Colorado,80202,Edge,Email,/purchase,purchase
+105,16,1,sess-0007,2023-10-07 15:53:03,184.89.154.104,Austin,Texas,78701,Chrome,Search,/,home
+106,16,2,sess-0007,2023-10-07 15:54:35,184.89.154.104,Austin,Texas,78701,Chrome,Search,/department/women,department
+107,16,3,sess-0007,2023-10-07 15:56:03,184.89.154.104,Austin,Texas,78701,Chrome,Search,/product/9,product
+108,16,4,sess-0007,2023-10-07 15:57:11,184.89.154.104,Austin,Texas,78701,Chrome,Search,/department/women,department
+109,16,5,sess-0007,2023-10-07 15:59:16,184.89.154.104,Austin,Texas,78701,Chrome,Search,/product/14,product
+110,16,6,sess-0007,2023-10-07 16:02:52,184.89.154.104,Austin,Texas,78701,Chrome,Search,/department/men,department
+111,16,7,sess-0007,2023-10-07 16:05:35,184.89.154.104,Austin,Texas,78701,Chrome,Search,/product/4,product
+112,16,8,sess-0007,2023-10-07 16:08:25,184.89.154.104,Austin,Texas,78701,Chrome,Search,/cart,cart
+113,16,9,sess-0007,2023-10-07 16:11:27,184.89.154.104,Austin,Texas,78701,Chrome,Search,/purchase,purchase
+114,19,1,sess-0006,2023-10-17 01:39:20,195.153.158.171,Portland,Oregon,97204,Edge,Search,/,home
+115,19,2,sess-0006,2023-10-17 01:40:58,195.153.158.171,Portland,Oregon,97204,Edge,Search,/department/men,department
+116,19,3,sess-0006,2023-10-17 01:42:56,195.153.158.171,Portland,Oregon,97204,Edge,Search,/product/11,product
+117,19,4,sess-0006,2023-10-17 01:46:09,195.153.158.171,Portland,Oregon,97204,Edge,Search,/department/men,department
+118,19,5,sess-0006,2023-10-17 01:47:39,195.153.158.171,Portland,Oregon,97204,Edge,Search,/product/13,product
+119,19,6,sess-0006,2023-10-17 01:50:15,195.153.158.171,Portland,Oregon,97204,Edge,Search,/department/women,department
+120,19,7,sess-0006,2023-10-17 01:51:02,195.153.158.171,Portland,Oregon,97204,Edge,Search,/product/12,product
+121,19,8,sess-0006,2023-10-17 01:52:06,195.153.158.171,Portland,Oregon,97204,Edge,Search,/cart,cart
+122,19,9,sess-0006,2023-10-17 01:54:08,195.153.158.171,Portland,Oregon,97204,Edge,Search,/purchase,purchase
+123,19,1,sess-0019,2023-10-20 03:57:08,114.84.239.236,Portland,Oregon,97204,Safari,Search,/,home
+124,19,2,sess-0019,2023-10-20 04:00:02,114.84.239.236,Portland,Oregon,97204,Safari,Search,/department/women,department
+125,19,3,sess-0019,2023-10-20 04:02:33,114.84.239.236,Portland,Oregon,97204,Safari,Search,/product/9,product
+126,19,4,sess-0019,2023-10-20 04:02:54,114.84.239.236,Portland,Oregon,97204,Safari,Search,/department/men,department
+127,19,5,sess-0019,2023-10-20 04:04:49,114.84.239.236,Portland,Oregon,97204,Safari,Search,/product/11,product
+128,4,1,sess-0015,2023-10-20 04:05:18,80.171.163.229,New York,New York,10004,Chrome,Search,/,home
+129,4,2,sess-0015,2023-10-20 04:06:08,80.171.163.229,New York,New York,10004,Chrome,Search,/department/women,department
+130,4,3,sess-0015,2023-10-20 04:07:01,80.171.163.229,New York,New York,10004,Chrome,Search,/product/9,product
+131,19,6,sess-0019,2023-10-20 04:07:35,114.84.239.236,Portland,Oregon,97204,Safari,Search,/cart,cart
+132,4,4,sess-0015,2023-10-20 04:08:15,80.171.163.229,New York,New York,10004,Chrome,Search,/department/men,department
+133,4,5,sess-0015,2023-10-20 04:10:08,80.171.163.229,New York,New York,10004,Chrome,Search,/product/3,product
+134,19,7,sess-0019,2023-10-20 04:10:14,114.84.239.236,Portland,Oregon,97204,Safari,Search,/purchase,purchase
+135,4,6,sess-0015,2023-10-20 04:13:20,80.171.163.229,New York,New York,10004,Chrome,Search,/cart,cart
+136,4,7,sess-0015,2023-10-20 04:14:14,80.171.163.229,New York,New York,10004,Chrome,Search,/purchase,purchase
+137,14,1,sess-0018,2023-10-21 23:39:04,150.112.249.57,Seattle,Washington,98101,Firefox,Organic,/,home
+138,14,2,sess-0018,2023-10-21 23:41:10,150.112.249.57,Seattle,Washington,98101,Firefox,Organic,/department/men,department
+139,14,3,sess-0018,2023-10-21 23:43:29,150.112.249.57,Seattle,Washington,98101,Firefox,Organic,/product/2,product
+140,14,4,sess-0018,2023-10-21 23:43:51,150.112.249.57,Seattle,Washington,98101,Firefox,Organic,/department/men,department
+141,14,5,sess-0018,2023-10-21 23:45:45,150.112.249.57,Seattle,Washington,98101,Firefox,Organic,/product/11,product
+142,14,6,sess-0018,2023-10-21 23:47:26,150.112.249.57,Seattle,Washington,98101,Firefox,Organic,/cart,cart
+143,14,7,sess-0018,2023-10-21 23:50:32,150.112.249.57,Seattle,Washington,98101,Firefox,Organic,/purchase,purchase
+144,4,1,sess-0026,2023-10-23 01:00:00,180.189.35.130,New York,New York,10004,Firefox,Search,/,home
+145,4,2,sess-0026,2023-10-23 01:00:18,180.189.35.130,New York,New York,10004,Firefox,Search,/department/women,department
+146,4,3,sess-0026,2023-10-23 01:04:10,180.189.35.130,New York,New York,10004,Firefox,Search,/product/9,product
+147,4,4,sess-0026,2023-10-23 01:06:12,180.189.35.130,New York,New York,10004,Firefox,Search,/department/women,department
+148,4,5,sess-0026,2023-10-23 01:09:57,180.189.35.130,New York,New York,10004,Firefox,Search,/product/7,product
+149,19,1,sess-0009,2023-10-23 15:59:59,180.171.47.210,Portland,Oregon,97204,Safari,Search,/,home
+150,19,2,sess-0009,2023-10-23 16:03:06,180.171.47.210,Portland,Oregon,97204,Safari,Search,/department/men,department
+151,19,3,sess-0009,2023-10-23 16:04:40,180.171.47.210,Portland,Oregon,97204,Safari,Search,/product/1,product
+152,19,4,sess-0009,2023-10-23 16:05:52,180.171.47.210,Portland,Oregon,97204,Safari,Search,/department/men,department
+153,19,5,sess-0009,2023-10-23 16:09:33,180.171.47.210,Portland,Oregon,97204,Safari,Search,/product/15,product
+154,19,6,sess-0009,2023-10-23 16:10:38,180.171.47.210,Portland,Oregon,97204,Safari,Search,/cart,cart
+155,19,7,sess-0009,2023-10-23 16:11:30,180.171.47.210,Portland,Oregon,97204,Safari,Search,/purchase,purchase
+156,18,1,sess-0005,2023-11-17 22:09:09,186.100.186.111,Phoenix,Arizona,85003,Chrome,Organic,/,home
+157,18,2,sess-0005,2023-11-17 22:12:14,186.100.186.111,Phoenix,Arizona,85003,Chrome,Organic,/department/men,department
+158,18,3,sess-0005,2023-11-17 22:13:53,186.100.186.111,Phoenix,Arizona,85003,Chrome,Organic,/product/5,product
+159,18,4,sess-0005,2023-11-17 22:16:47,186.100.186.111,Phoenix,Arizona,85003,Chrome,Organic,/cart,cart
+160,18,5,sess-0005,2023-11-17 22:18:22,186.100.186.111,Phoenix,Arizona,85003,Chrome,Organic,/purchase,purchase
+161,1,1,sess-0014,2023-11-18 16:50:59,74.141.248.161,Houston,Texas,77001,Safari,Search,/,home
+162,1,2,sess-0014,2023-11-18 16:52:24,74.141.248.161,Houston,Texas,77001,Safari,Search,/department/men,department
+163,1,3,sess-0014,2023-11-18 16:54:31,74.141.248.161,Houston,Texas,77001,Safari,Search,/product/4,product
+164,1,4,sess-0014,2023-11-18 16:55:05,74.141.248.161,Houston,Texas,77001,Safari,Search,/cart,cart
+165,1,5,sess-0014,2023-11-18 16:58:22,74.141.248.161,Houston,Texas,77001,Safari,Search,/purchase,purchase
+166,7,1,sess-0010,2023-11-19 22:14:15,73.243.37.117,New Orleans,Louisiana,70130,Edge,Display,/,home
+167,7,2,sess-0010,2023-11-19 22:17:11,73.243.37.117,New Orleans,Louisiana,70130,Edge,Display,/department/men,department
+168,7,3,sess-0010,2023-11-19 22:19:53,73.243.37.117,New Orleans,Louisiana,70130,Edge,Display,/product/5,product
+169,7,4,sess-0010,2023-11-19 22:20:57,73.243.37.117,New Orleans,Louisiana,70130,Edge,Display,/department/women,department
+170,7,5,sess-0010,2023-11-19 22:24:15,73.243.37.117,New Orleans,Louisiana,70130,Edge,Display,/product/7,product
+171,7,6,sess-0010,2023-11-19 22:27:28,73.243.37.117,New Orleans,Louisiana,70130,Edge,Display,/cart,cart
+172,7,7,sess-0010,2023-11-19 22:29:21,73.243.37.117,New Orleans,Louisiana,70130,Edge,Display,/purchase,purchase
+173,3,1,sess-0008,2023-11-20 07:06:07,124.226.109.131,Chicago,Illinois,60611,Edge,Facebook,/,home
+174,3,2,sess-0008,2023-11-20 07:09:45,124.226.109.131,Chicago,Illinois,60611,Edge,Facebook,/department/men,department
+175,3,3,sess-0008,2023-11-20 07:13:23,124.226.109.131,Chicago,Illinois,60611,Edge,Facebook,/product/3,product
+176,3,4,sess-0008,2023-11-20 07:16:46,124.226.109.131,Chicago,Illinois,60611,Edge,Facebook,/department/women,department
+177,3,5,sess-0008,2023-11-20 07:17:44,124.226.109.131,Chicago,Illinois,60611,Edge,Facebook,/product/8,product
+178,3,6,sess-0008,2023-11-20 07:20:47,124.226.109.131,Chicago,Illinois,60611,Edge,Facebook,/cart,cart
+179,3,7,sess-0008,2023-11-20 07:21:23,124.226.109.131,Chicago,Illinois,60611,Edge,Facebook,/purchase,purchase
+180,7,1,sess-0020,2023-11-22 07:37:06,32.219.69.222,New Orleans,Louisiana,70130,Edge,Display,/,home
+181,7,2,sess-0020,2023-11-22 07:38:07,32.219.69.222,New Orleans,Louisiana,70130,Edge,Display,/department/women,department
+182,7,3,sess-0020,2023-11-22 07:38:34,32.219.69.222,New Orleans,Louisiana,70130,Edge,Display,/product/14,product
+183,7,4,sess-0020,2023-11-22 07:39:55,32.219.69.222,New Orleans,Louisiana,70130,Edge,Display,/department/women,department
+184,7,5,sess-0020,2023-11-22 07:41:47,32.219.69.222,New Orleans,Louisiana,70130,Edge,Display,/product/7,product
+185,7,6,sess-0020,2023-11-22 07:43:25,32.219.69.222,New Orleans,Louisiana,70130,Edge,Display,/cart,cart
+186,7,7,sess-0020,2023-11-22 07:44:34,32.219.69.222,New Orleans,Louisiana,70130,Edge,Display,/purchase,purchase
