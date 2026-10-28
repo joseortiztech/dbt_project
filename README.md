@@ -53,3 +53,4 @@ dbt build -s marts                         # todos los marts
 - **Nombres únicos**: dos modelos no pueden tener el mismo nombre dentro de un proyecto, aunque estén en carpetas distintas. Por eso el prefijo `stg_looker__` deja libre `customers` para el mart.
 - **Paquete**: otro proyecto dbt que se instala con `packages.yml` y `dbt deps` para reutilizar macros, tests o modelos (por ejemplo `dbt_utils`). Los modelos de paquetes distintos pueden repetir nombre y se distinguen con `ref('paquete', 'modelo')`.
 - **Orden de columnas en los marts**: un pequeño apunte: el orden de las columnas del mart sigue libremente esta convención: primero la columna de clave primaria, seguida de columnas de dimensión (texto), y luego columnas de hechos (números, agregaciones, etc).
+
