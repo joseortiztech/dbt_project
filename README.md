@@ -10,6 +10,7 @@
 | `4_agregando_columnas_a_modelos` | Selección, renombrado y documentación de columnas en los modelos |
 | `5_testing` | Tests de datos (`unique`, `not_null`, etc.) en algunos modelos |
 | `6_data_marts` | Reorganización de `models/` en `staging/` y `marts/`, y creación de los marts `customers` y `products` |
+| `7_snapshots` | Snapshots `orders_snapshot` (fuente `orders`, clave `order_id`) e `inventory_snapshot` (fuente `inventory_items`, clave `id`), ambos con estrategia `timestamp` sobre `created_at` y destino en el schema `main` |
 
 ## Comandos básicos
 
@@ -32,6 +33,8 @@ dbt test               # correr tests
 dbt build              # seed + run + test (+ snapshot)
 dbt docs generate      # generar documentación
 dbt docs serve         # verla en el navegador
+dbt snapshot                       # ejecutar todos los snapshots
+dbt snapshot -s orders_snapshot    # ejecutar un snapshot específico
 
 # Selección de modelos
 dbt build -s +customers                    # el modelo y sus dependencias
@@ -42,6 +45,8 @@ dbt build -s marts                         # todos los marts
 ## APUNTES
 
 - **Snapshot**: registra el historial de cambios de una tabla fuente (SCD tipo 2). Agrega `dbt_valid_from` y `dbt_valid_to`. Se ejecuta con `dbt snapshot` y solo captura cambios entre ejecuciones.
+- **Snapshots del proyecto**: se definen como bloque `{% snapshot %}` en `.sql` dentro de `snapshots/`. Alternativa desde dbt 1.9: archivo `.yml` con `relation` y `schema` (sin SQL). Ambas se ejecutan igual con `dbt snapshot`.
+- **Limitación de la config actual**: con `strategy='timestamp'` y `updated_at='created_at'`, los cambios en filas existentes (por ejemplo, el `status` de un pedido) no se detectan, porque `created_at` no cambia. Para capturarlos, usar `strategy='check'` con `check_cols=['status']` o una columna real de actualización.
 - **Staging**: primera capa de modelos. Relación 1:1 con las fuentes, solo limpieza (renombrar, castear tipos), sin joins ni agregaciones. Nombre: `stg_<fuente>__<tabla>`.
 - **Marts**: capa final para análisis. Aquí van los joins, agregaciones y reglas de negocio, usando `ref()` sobre los modelos staging.
 - **Ubicación de modelos**: los marts deben estar dentro de `models/` (`model-paths`); fuera de esa ruta dbt no los detecta y `dbt build` responde "does not match any enabled nodes".
