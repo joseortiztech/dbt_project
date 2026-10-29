@@ -72,5 +72,7 @@ models:
         description: Total sales amount attributed to this product
       - name: cost_of_goods_sold
         description: Total cost of goods sold attributed to this product
+        data_tests:
+          - not_null
       - name: profit
         description: Profit, calculated by sales amount minus cost of goods sold
